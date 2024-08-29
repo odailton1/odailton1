@@ -11,4 +11,4 @@ Meu nome é Odailton
 odailton.silva@escola.pr.gov.br
 
 
-![descrição do GIF](link GIF do Tenor)
+https://tenor.com/rAlIWyRDKiH.gif
